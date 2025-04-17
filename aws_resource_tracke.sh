@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#set -x
+set -x
 
 #Lists S3 buckets
 echo "Lists of S3 buckets"
